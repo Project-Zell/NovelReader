@@ -124,7 +124,3 @@ Do not interpret an omitted class or feature as evidence that it did not exist i
 - [Dialogue parsing and events](docs/DIALOGUE_AND_EVENTS.md)
 - [Event channels and asynchronous coordination](docs/EVENT_CHANNELS.md)
 - [API reference](docs/API_REFERENCE.md)
-
-## License
-
-No license information was present in the supplied archive. Add a `LICENSE` file if this project is intended for distribution.
