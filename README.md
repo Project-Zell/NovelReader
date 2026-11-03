@@ -71,9 +71,6 @@ Assets/
     ├── ReaderEventController.cs
     └── StoryPlayer.cs
 ```
-
-The archive also includes a sample Unity scene, Input System action asset, and URP settings. The project archive is not a complete standalone application: several referenced event, channel, choice, and presentation types are omitted from this NDA-sanitized snapshot.
-
 ## Ink tags and dialogue conventions
 
 The included `EventParser` recognizes these tag names (case-insensitive):
